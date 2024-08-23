@@ -2,3 +2,4 @@ This is a sample Test file
 
 Test revert command!
 Merge conflicting files!
+This is Stash materials, change the test file

@@ -1,1 +1,2 @@
 This is a sample Dev file
+This is Stash materials, change the file
