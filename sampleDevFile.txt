@@ -1,1 +1,3 @@
 This is a sample Dev file
+
+Test revert command!
